@@ -1,0 +1,41 @@
+{
+	"name": "com.renderheads.avpro.video-trial",
+	"displayName": "AVPro Video",
+	"version": "3.2.7",
+	"unity": "2021.3",
+	"unityRelease": "45f1",
+	"description": "Advanced video playback for Unity",
+	"keywords": [
+		"avpro",
+		"video",
+		"movie",
+		"media",
+		"hls",
+		"mp4",
+		"streaming",
+		"player",
+		"android",
+		"windows",
+		"ios",
+		"macos",
+		"tvos",
+		"visionos",
+		"mp4",
+		"mov"
+	],
+	"samples": [
+		{
+			"displayName": "Media Player Demo (New Input System)",
+			"description": "The media player demo scene converted to use the new input system",
+			"path": "Samples~/Demo_MediaPlayer_NewInputSystem"
+		}
+	],
+	"author": {
+		"name": "RenderHeads",
+		"email": "unitysupport@renderheads.com",
+		"url": "https://renderheads.com"
+	},
+	"changelogUrl": "https://github.com/RenderHeads/UnityPlugin-AVProVideo/releases",
+	"documentationUrl": "https://www.renderheads.com/content/docs/AVProVideo-v3/",
+	"licensesUrl": "https://www.renderheads.com/content/docs/AVProVideo-v3/articles/licenses.html"
+}

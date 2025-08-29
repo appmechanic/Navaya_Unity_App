@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NAVAYA ANV Baked.unity
+    guid: 53dd02bc45a271342a1645d9d92804b1
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e0ddb5587fd09eb47812ecb5dfe84a2d, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 113e50517b0a27144bc60dc8492a33ab, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 56266d6c3a4ba79418655c1d53c99310, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 89affa064d6e0c04f87fb909a51632b5, type: 2}

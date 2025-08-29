@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 471420fc51da8da41bca1f175c1937d9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circular_image
+    second: {fileID: 2100000, guid: 753844cb60f536341a95722bf93325b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_Pot
+    second: {fileID: 2100000, guid: 78b8b2dfde6e08b4d88db0502489a29a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NAVAYA_HALL
+    second: {fileID: 2100000, guid: 573714316b03ba648b66b8b894ad0e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NAVAYA_Name
+    second: {fileID: 2100000, guid: 2599311d6df017d4c855a15a09820837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo1
+    second: {fileID: 2100000, guid: fb363c40d603fe2478cc7423d23b2f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo10
+    second: {fileID: 2100000, guid: 2d9f36ff7be4f1f41a80452a5729aac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo11
+    second: {fileID: 2100000, guid: eb5265db439ff96469d02c156a6b97d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo12
+    second: {fileID: 2100000, guid: f6a68f004c0876f44aa718f0a76d22bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo13
+    second: {fileID: 2100000, guid: 5458b4b0295e4b34a83e8709c720a9d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo14
+    second: {fileID: 2100000, guid: 0aaed813b80432344865341db8602119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo15
+    second: {fileID: 2100000, guid: 6b7933ff124dc83458c9e3b7316a54fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo16
+    second: {fileID: 2100000, guid: 9e9b684d4ada0a1418f60b4d4e7bdddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo17
+    second: {fileID: 2100000, guid: b77f264a7545e8c4c94c862edd53323a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo18
+    second: {fileID: 2100000, guid: 4d18b32f5cde6ea4baa0919f85a3bd0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo2
+    second: {fileID: 2100000, guid: f9a9a43fb0964ea45b525741fdcb5823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo3
+    second: {fileID: 2100000, guid: b6b9a76f4e425cb4099cd3a9419f3fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo4
+    second: {fileID: 2100000, guid: dd7e5f2b0ca66524eb29995e3348410c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo5
+    second: {fileID: 2100000, guid: 40039c6c3eddff847965daea1b5ed0c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo6
+    second: {fileID: 2100000, guid: d7fad1024c961374daad929e4120e022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo7
+    second: {fileID: 2100000, guid: 8ab0e7814d1009f42973bf2251ed4227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo8
+    second: {fileID: 2100000, guid: 02c57d91f77a7e44d97e0b77ffed856a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo9
+    second: {fileID: 2100000, guid: 9aca336c9b182ed49b1cb400dfbe3937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_circle_light
+    second: {fileID: 2100000, guid: d2a84ec6a3f781446807b4289e2ca546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface1
+    second: {fileID: 2100000, guid: be996e4b0890ad346a102f4c2b52e717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_stim
+    second: {fileID: 2100000, guid: 1a10d8f33828d5c43a00db9b4129dfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: video_screen
+    second: {fileID: 2100000, guid: a7ba673d0831c2b48aa8df27c7d1a114, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04977746e052a00bdf0d87def01d18ab
+    second: {fileID: 2800000, guid: f0626822bf1e95a4e99cd83718bb1026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower pot_Flower_Pot_AlbedoTransparency
+    second: {fileID: 2800000, guid: 795d40f7426f8a945b1733650dab04a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower pot_Flower_Pot_MetallicSmoothness
+    second: {fileID: 2800000, guid: 3374026b465faa5498c8f21d4e5338da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower pot_Flower_Pot_Normal
+    second: {fileID: 2800000, guid: a8f170f6b488ba549b85637529960b39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NAVAYA ENV_2_NAVAYA_HALL_AlbedoTransparency
+    second: {fileID: 2800000, guid: 0b0d0b5ed838d774a96dd7b75e0a1d0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NAVAYA ENV_2_NAVAYA_HALL_MetallicSmoothness
+    second: {fileID: 2800000, guid: 729f68e3279f8f94bb2748456ec994e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NAVAYA ENV_2_NAVAYA_HALL_Normal
+    second: {fileID: 2800000, guid: 0bf00697c53c1a649bf2b3173ca88b59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_2491824d5b264415aaf84cdd6ddfc4f1_flower_magnolia_albedo
+    second: {fileID: 2800000, guid: dee3ef5b9ecc2744d84b10c437da4036, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: agra-fort-379666_1920
+    second: {fileID: 2800000, guid: dcf199ad67c9ff04091bc3608e2ca122, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alpine-4552654_1920
+    second: {fileID: 2800000, guid: c9ceb5441c016314c8eb8300e2969b0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle-4371727_1920
+    second: {fileID: 2800000, guid: c2bc6eeacc126fa40b8812a8078a7477, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle-5588005_1920
+    second: {fileID: 2800000, guid: 1223add44be87794e952d343c07e0525, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: circle
+    second: {fileID: 2800000, guid: 3faedf28f466d6f4b9137b36d6e3126f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clouds-8590310_1920
+    second: {fileID: 2800000, guid: 6d17c7419ce65a645aef42579666fa2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gyeongbokgung-6200276_1920
+    second: {fileID: 2800000, guid: b7205d635dbba0f468575a63e2943d9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house-4811590_1920
+    second: {fileID: 2800000, guid: e7cd4462f82b7bc44b0034a717fbf512, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lake-2608425_1920
+    second: {fileID: 2800000, guid: 34c76d07e939c004b8ff88b5c7387591, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lake-7377942_1920
+    second: {fileID: 2800000, guid: 4bbf3211295db5746b487946be6ed078, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: landscape-3908270_1920
+    second: {fileID: 2800000, guid: 50e0eb0c681aa914d9f6bd42c77f97dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mikulov-1134141_1280
+    second: {fileID: 2800000, guid: 8373c54449fd2ef4598687e36833dbdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mountain-8330401_1920
+    second: {fileID: 2800000, guid: 998fcc146691cb54db6820d947fd1ed9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sunset-8068208_1920
+    second: {fileID: 2800000, guid: 34948bb85be52b542a0ea173eebfb1b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: venice-3118803_1920
+    second: {fileID: 2800000, guid: fb070cc559f154c499392a405ebb846b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vietnam-3059529_1920
+    second: {fileID: 2800000, guid: 6a3ff545057d63b4782d452568cdb3eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: village-7939562_1920
+    second: {fileID: 2800000, guid: 4854c4cf41cecc445905294e8a146108, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: village-8501168_1920
+    second: {fileID: 2800000, guid: 1dab0e699290f48458fc1ec23f61ab8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: windmills-7986053_1920
+    second: {fileID: 2800000, guid: 47a9dec2d7a735c42afbd480b746cbbc, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
